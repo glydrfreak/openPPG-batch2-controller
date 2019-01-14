@@ -36,6 +36,10 @@ The Arduino nano inside the controller uses the CH340G chip to connect over USB.
 - `Adafruit_SSD1306`
 - `Adafruit GFX Library`
 - `AceButton`
+5. Navigate to github and obtain the library:
+- `Time`by PaulStoffregen
+- Unzip and place this library in the same location as all the other Arduino library files on your computer. 
+  (usually program files / Arduino / libraries) for Windows.
 
 ### Flash the OpenPPG Code
 
