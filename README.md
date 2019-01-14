@@ -1,4 +1,4 @@
-#WARNING!
+# WARNING!
 This code is modified for use in the OpenPPG batch2 with a 5V throttle controller and a 3.3V voltage divider.
 Originally written by Zach Whitehead, modified by Braedin Butler.
 Modifications include:
